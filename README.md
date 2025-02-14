@@ -1,6 +1,9 @@
 # MiniColorApp 🎨
 A color generating app I developed in November 2024.
 
+https://github.com/user-attachments/assets/85ebd49a-668e-480f-90b5-052bc2418e56
+
+
 ## 📄 Key Features:
 - Generates 5 random colors.
 - The color codes are shown in HEX, RGB, or HSL.
